@@ -7,6 +7,7 @@
   [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
 </div>
 
+  by [Karo](https://substack.com/@karozieminski?utm_source=user-menu)
 ## 🎯 What is StackShelf?
 
 StackShelf is a discovery platform and storefront builder designed exclusively for the Substack creator community. It enables writers, journalists, and content creators to showcase their products, newsletters, and social presence in a beautiful, unified "shelf-in-bio" page.
